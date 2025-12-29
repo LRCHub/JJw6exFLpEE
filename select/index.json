@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "ラムのラブソング",
+  "base_artist": "松谷祐子",
+  "createdAt": "2025-12-29T14:43:47.670856Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラムのラブソング",
+      "artist": "Orange Caramel",
+      "has_synced": false,
+      "path": "select/01_ラムのラブソング_Orange_Caramel.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ラムのラブソング (Instrumental)",
+      "artist": "Orange Caramel",
+      "has_synced": false,
+      "path": "select/02_ラムのラブソング_(Instrumental)_Orange_Caramel.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ラムのラブソング",
+      "artist": "松谷祐子",
+      "has_synced": true,
+      "path": "select/03_ラムのラブソング_松谷祐子.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ラムのラブソング",
+      "artist": "松谷祐子",
+      "has_synced": true,
+      "path": "select/04_ラムのラブソング_松谷祐子.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ラムのラブソング",
+      "artist": "松谷祐子",
+      "has_synced": true,
+      "path": "select/05_ラムのラブソング_松谷祐子.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ラムのラブソング",
+      "artist": "松谷 祐子",
+      "has_synced": true,
+      "path": "select/06_ラムのラブソング_松谷_祐子.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ラムのラブソング [Instrumental]",
+      "artist": "Orange Caramel",
+      "has_synced": false,
+      "path": "select/07_ラムのラブソング_[Instrumental]_Orange_Caramel.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ラムのラブソング",
+      "artist": "東京ブラス・スタイル",
+      "has_synced": false,
+      "path": "select/08_ラムのラブソング_東京ブラス・スタイル.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ラムのラブソング",
+      "artist": "榊原ゆい",
+      "has_synced": false,
+      "path": "select/09_ラムのラブソング_榊原ゆい.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ラムのラブソング「うる星やつら」",
+      "artist": "松谷祐子",
+      "has_synced": false,
+      "path": "select/10_ラムのラブソング「うる星やつら」_松谷祐子.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ラムのラブソング",
+      "artist": "Clémentine",
+      "has_synced": false,
+      "path": "select/11_ラムのラブソング_Clémentine.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ラムのラブソング",
+      "artist": "LISP",
+      "has_synced": false,
+      "path": "select/12_ラムのラブソング_LISP.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ラムのラブソング - Cover",
+      "artist": "Pastel*Palettes",
+      "has_synced": true,
+      "path": "select/13_ラムのラブソング_-_Cover_Pastel_Palettes.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ラムのラブソング",
+      "artist": "クレモンティーヌ",
+      "has_synced": false,
+      "path": "select/14_ラムのラブソング_クレモンティーヌ.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ラムのラブソング",
+      "artist": "Yuko Matsutani",
+      "has_synced": true,
+      "path": "select/15_ラムのラブソング_Yuko_Matsutani.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ラムのラブソング (Yuki Nakano Remix)",
+      "artist": "松谷 祐子",
+      "has_synced": false,
+      "path": "select/16_ラムのラブソング_(Yuki_Nakano_Remix)_松谷_祐子.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラムのラブソング",
+      "artist": "松谷祐子",
+      "has_synced": false,
+      "path": "select/pl_01_ラムのラブソング_松谷祐子.txt"
+    }
+  ]
+}
